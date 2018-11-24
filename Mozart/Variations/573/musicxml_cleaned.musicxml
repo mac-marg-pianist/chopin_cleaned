@@ -87,7 +87,7 @@
           <words default-y="46.00" font-family="Times New Roman">Thema con Variationi</words>
           </direction-type>
         <staff>1</staff>
-        </direction>
+      </direction>
       <note default-x="97.79" default-y="10.00">
         <pitch>
           <step>A</step>
@@ -48057,9 +48057,6 @@
           <staff-distance>65.00</staff-distance>
           </staff-layout>
         </print>
-      <backup>
-        <duration>318419</duration>
-        </backup>
       <note default-x="13.60" default-y="15.00">
         <pitch>
           <step>B</step>
@@ -61431,6 +61428,9 @@
         <stem>up</stem>
         <staff>2</staff>
         </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+        </barline>
       </measure>
     </part>
   </score-partwise>
