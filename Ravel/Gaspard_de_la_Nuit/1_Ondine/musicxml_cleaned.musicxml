@@ -7762,7 +7762,7 @@
         <direction-type>
           <words default-x="-33.50" default-y="40.00" relative-x="27.89" relative-y="33.10" font-weight="bold" font-size="12">au Mouv</words>
           <words font-size="16">t</words>
-          <words font-size="12">du début</words>
+          <words font-size="12"> du début</words>
           </direction-type>
         <sound tempo="60"/>
         </direction>

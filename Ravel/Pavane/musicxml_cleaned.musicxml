@@ -10328,7 +10328,7 @@
         </print>
       <direction placement="above">
         <direction-type>
-          <words default-y="40.00" relative-y="20.00" font-weight="bold" font-size="14">Reprenez  le  mouvement</words>
+          <words default-y="40.00" relative-y="20.00" font-weight="bold" font-size="14">Reprenez le mouvement</words>
           </direction-type>
         <staff>1</staff>
         <sound tempo="54"/>
