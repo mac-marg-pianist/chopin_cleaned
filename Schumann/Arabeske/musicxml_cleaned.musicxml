@@ -4,7 +4,7 @@
   <identification>
     <encoding>
       <software>MuseScore 2.3.2</software>
-      <encoding-date>2018-11-15</encoding-date>
+      <encoding-date>2018-11-29</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -29766,7 +29766,7 @@
     <measure number="149" width="179.46">
       <direction placement="below">
         <direction-type>
-          <dynamics default-x="5.33" default-y="-80.00" relative-x="-9.77" relative-y="9.18">
+          <dynamics default-x="5.33" default-y="-80.00" relative-y="6.61">
             <p/>
             </dynamics>
           </direction-type>
