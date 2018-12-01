@@ -1521,9 +1521,9 @@
           <alter>-1</alter>
           <octave>1</octave>
           </pitch>
-        <duration>12</duration>
+        <duration>6</duration>
         <voice>5</voice>
-        <type>quarter</type>
+        <type>eighth</type>
         <stem>up</stem>
         <staff>2</staff>
         <notations>
@@ -1537,9 +1537,9 @@
           <alter>-1</alter>
           <octave>2</octave>
           </pitch>
-        <duration>12</duration>
+        <duration>6</duration>
         <voice>5</voice>
-        <type>quarter</type>
+        <type>eighth</type>
         <stem>up</stem>
         <staff>2</staff>
         </note>
