@@ -8,7 +8,7 @@
     <creator type="composer">Sergei Rachmaninoff</creator>
     <encoding>
       <software>MuseScore 2.3.2</software>
-      <encoding-date>2018-12-01</encoding-date>
+      <encoding-date>2018-12-05</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -42,7 +42,7 @@
     <lyric-font font-family="FreeSerif" font-size="11"/>
     </defaults>
   <credit page="1">
-    <credit-words default-x="1202.28" default-y="1599.33" justify="right" valign="bottom" font-size="12">S. Rachmaninow, Op. 32. № 5.</credit-words>
+    <credit-words default-x="1202.28" default-y="1574.33" justify="right" valign="bottom" font-size="12">S. Rachmaninow, Op. 32. № 5.</credit-words>
     </credit>
   <credit page="1">
     <credit-words default-x="631.19" default-y="1724.33" justify="center" valign="top" font-size="24">Prelude</credit-words>
@@ -71,7 +71,7 @@
             <left-margin>21.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <top-system-distance>195.00</top-system-distance>
+          <top-system-distance>220.00</top-system-distance>
           </system-layout>
         <staff-layout number="2">
           <staff-distance>65.00</staff-distance>
@@ -1045,7 +1045,7 @@
             <left-margin>21.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>150.00</system-distance>
+          <system-distance>147.29</system-distance>
           </system-layout>
         <staff-layout number="2">
           <staff-distance>65.00</staff-distance>
@@ -2130,7 +2130,7 @@
             <left-margin>21.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>150.00</system-distance>
+          <system-distance>147.29</system-distance>
           </system-layout>
         <staff-layout number="2">
           <staff-distance>65.00</staff-distance>
@@ -3307,7 +3307,7 @@
             <left-margin>21.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>150.00</system-distance>
+          <system-distance>147.29</system-distance>
           </system-layout>
         <staff-layout number="2">
           <staff-distance>65.00</staff-distance>
@@ -4043,7 +4043,7 @@
             <left-margin>21.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>150.00</system-distance>
+          <system-distance>147.29</system-distance>
           </system-layout>
         <staff-layout number="2">
           <staff-distance>65.00</staff-distance>
@@ -13466,7 +13466,7 @@
         </direction>
       <direction placement="above">
         <direction-type>
-          <words default-y="40.00" relative-x="-2.99" relative-y="22.91" font-family="MScore Text" font-size="15"></words>
+          <words default-y="40.00" relative-x="-16.67" relative-y="15.48" font-family="MScore Text" font-size="15"></words>
           </direction-type>
         <staff>1</staff>
         </direction>
@@ -13585,7 +13585,7 @@
         </direction>
       <direction placement="above">
         <direction-type>
-          <words default-y="40.00" relative-x="-11.95" relative-y="21.91" font-family="MScore Text" font-size="15"></words>
+          <words default-y="40.00" relative-y="33.55" font-family="MScore Text" font-size="15"></words>
           </direction-type>
         <staff>1</staff>
         </direction>
@@ -14148,7 +14148,7 @@
         </print>
       <direction placement="above">
         <direction-type>
-          <words default-y="40.00" relative-x="1.00" relative-y="31.82" font-family="MScore Text"></words>
+          <words default-y="40.00" relative-x="12.02" relative-y="33.56" font-family="MScore Text" font-size="15"></words>
           </direction-type>
         <staff>1</staff>
         </direction>
