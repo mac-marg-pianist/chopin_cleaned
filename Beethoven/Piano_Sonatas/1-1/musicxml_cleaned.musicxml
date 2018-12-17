@@ -85,8 +85,8 @@
           <fifths>-4</fifths>
           </key>
         <time symbol="cut">
-          <beats>4</beats>
-          <beat-type>4</beat-type>
+          <beats>2</beats>
+          <beat-type>2</beat-type>
           </time>
         <staves>2</staves>
         <clef number="1">
