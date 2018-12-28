@@ -99,7 +99,7 @@
         </attributes>
       <direction placement="above">
         <direction-type>
-          <words default-x="-33.44" default-y="40.00" relative-x="-68.23" relative-y="22.10" font-weight="bold" font-family="Times New Roman" font-size="12.3782">Freely, with expression</words>
+          <words default-x="-33.44" default-y="40.00" relative-x="-68.23" relative-y="22.10" font-weight="bold" font-family="Times New Roman" font-size="12.3782">Andante con moto</words>
           </direction-type>
         <staff>1</staff>
         <sound tempo="40"/>
