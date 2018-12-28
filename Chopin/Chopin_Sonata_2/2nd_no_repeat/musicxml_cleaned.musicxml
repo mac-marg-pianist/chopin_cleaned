@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+처?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.1 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="3.1">
   <identification>
@@ -21073,7 +21073,7 @@
         </direction>
       <direction placement="above">
         <direction-type>
-          <words default-y="40.00" font-weight="bold" font-family="Times New Roman" font-size="12">Pi첫 lento</words>
+          <words default-y="40.00" font-weight="bold" font-family="Times New Roman" font-size="12">Più lento</words>
           </direction-type>
         <staff>1</staff>
         <sound tempo="118"/>
