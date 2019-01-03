@@ -99,7 +99,7 @@
         </attributes>
       <direction placement="above">
         <direction-type>
-          <words default-x="-32.50" default-y="40.00" relative-x="28.69" relative-y="-20.01" font-weight="bold" font-style="italic" font-family="Times New Roman" font-size="12.3782">As a lullaby</words>
+          <words default-x="-32.50" default-y="40.00" relative-x="28.69" relative-y="-20.01" font-weight="bold" font-style="italic" font-family="Times New Roman" font-size="12.3782">Andante</words>
           </direction-type>
         <staff>1</staff>
         <sound tempo="60"/>
