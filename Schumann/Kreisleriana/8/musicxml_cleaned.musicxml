@@ -1,0 +1,1204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.1 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="3.1">
+  <work>
+    <work-title>KREISLERIANA Fantasie Nr. 8</work-title>
+    </work>
+  <identification>
+    <encoding>
+      <software>MuseScore 2.3.2</software>
+      <encoding-date>2018-11-16</encoding-date>
+      <supports element="accidental" type="yes"/>
+      <supports element="beam" type="yes"/>
+      <supports element="print" attribute="new-page" type="yes" value="yes"/>
+      <supports element="print" attribute="new-system" type="yes" value="yes"/>
+      <supports element="stem" type="yes"/>
+      </encoding>
+    </identification>
+  <defaults>
+    <scaling>
+      <millimeters>6.4</millimeters>
+      <tenths>40</tenths>
+      </scaling>
+    <page-layout>
+      <page-height>1856</page-height>
+      <page-width>1312</page-width>
+      <page-margins type="both">
+        <left-margin>125</left-margin>
+        <right-margin>125</right-margin>
+        <top-margin>125</top-margin>
+        <bottom-margin>125</bottom-margin>
+        </page-margins>
+      </page-layout>
+    <word-font font-family="FreeSerif" font-size="10"/>
+    <lyric-font font-family="FreeSerif" font-size="11"/>
+    </defaults>
+  <credit page="1">
+    <credit-words default-x="125" default-y="1631" justify="left" valign="bottom" font-size="12">KREISLERIANA Fantasie Nr. 8</credit-words>
+    </credit>
+  <part-list>
+    <score-part id="P1">
+      <part-name>part-1</part-name>
+      <score-instrument id="P1-I1">
+        <instrument-name></instrument-name>
+        </score-instrument>
+      <midi-device id="P1-I1" port="1"></midi-device>
+      <midi-instrument id="P1-I1">
+        <midi-channel>1</midi-channel>
+        <volume>78.7402</volume>
+        <pan>0</pan>
+        </midi-instrument>
+      </score-part>
+    </part-list>
+  <part id="P1">
+    <measure number="1" width="nan">
+      <print>
+        <system-layout>
+          <system-margins>
+            <left-margin>0.00</left-margin>
+            <right-margin>nan</right-margin>
+            </system-margins>
+          <top-system-distance>170.00</top-system-distance>
+          </system-layout>
+        </print>
+      <attributes>
+        <divisions>1</divisions>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+          </clef>
+        </attributes>
+      </measure>
+    <measure number="2" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+          </clef>
+        </attributes>
+      </measure>
+    <measure number="3" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="4" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="5" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="6" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="7" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="8" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="9" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="10" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="11" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="12" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="13" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="14" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="15" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="16" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="17" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="18" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="19" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="20" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="21" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="22" width="nan">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>0.00</left-margin>
+            <right-margin>nan</right-margin>
+            </system-margins>
+          <system-distance>150.00</system-distance>
+          </system-layout>
+        </print>
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+          </clef>
+        </attributes>
+      </measure>
+    <measure number="23" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+          </clef>
+        </attributes>
+      </measure>
+    <measure number="24" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="25" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="26" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="27" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="28" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="29" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="30" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="31" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="32" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="33" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="34" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="35" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="36" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="37" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="38" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="39" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="40" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="41" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="42" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="43" width="nan">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>0.00</left-margin>
+            <right-margin>nan</right-margin>
+            </system-margins>
+          <system-distance>150.00</system-distance>
+          </system-layout>
+        </print>
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+          </clef>
+        </attributes>
+      </measure>
+    <measure number="44" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+          </clef>
+        </attributes>
+      </measure>
+    <measure number="45" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="46" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="47" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="48" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="49" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="50" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="51" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="52" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="53" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="54" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="55" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="56" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="57" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="58" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="59" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="60" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="61" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="62" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="63" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="64" width="nan">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>0.00</left-margin>
+            <right-margin>nan</right-margin>
+            </system-margins>
+          <system-distance>150.00</system-distance>
+          </system-layout>
+        </print>
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+          </clef>
+        </attributes>
+      </measure>
+    <measure number="65" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+          </clef>
+        </attributes>
+      </measure>
+    <measure number="66" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="67" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="68" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="69" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="70" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="71" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="72" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="73" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="74" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="75" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="76" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="77" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="78" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="79" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="80" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="81" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="82" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="83" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="84" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="85" width="nan">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>0.00</left-margin>
+            <right-margin>nan</right-margin>
+            </system-margins>
+          <system-distance>150.00</system-distance>
+          </system-layout>
+        </print>
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+          </clef>
+        </attributes>
+      </measure>
+    <measure number="86" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+          </clef>
+        </attributes>
+      </measure>
+    <measure number="87" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="88" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="89" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="90" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="91" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="92" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="93" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="94" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="95" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="96" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="97" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="98" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="99" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="100" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="101" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="102" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="103" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="104" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="105" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="106" width="nan">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>0.00</left-margin>
+            <right-margin>nan</right-margin>
+            </system-margins>
+          <system-distance>150.00</system-distance>
+          </system-layout>
+        </print>
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+          </clef>
+        </attributes>
+      </measure>
+    <measure number="107" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+          </clef>
+        </attributes>
+      </measure>
+    <measure number="108" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="109" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="110" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="111" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="112" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="113" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="114" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="115" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="116" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="117" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="118" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="119" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="120" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="121" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="122" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="123" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="124" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="125" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="126" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="127" width="nan">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>0.00</left-margin>
+            <right-margin>nan</right-margin>
+            </system-margins>
+          <system-distance>150.00</system-distance>
+          </system-layout>
+        </print>
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+          </clef>
+        </attributes>
+      </measure>
+    <measure number="128" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+          </clef>
+        </attributes>
+      </measure>
+    <measure number="129" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="130" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="131" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="132" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="133" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="134" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="135" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="136" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="137" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="138" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="139" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="140" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="141" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="142" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="143" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="144" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="145" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="146" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    <measure number="147" width="nan">
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        </attributes>
+      </measure>
+    </part>
+  </score-partwise>
