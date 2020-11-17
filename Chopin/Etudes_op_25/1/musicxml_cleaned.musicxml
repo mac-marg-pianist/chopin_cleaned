@@ -45068,6 +45068,11 @@
         <type>quarter</type>
         <stem>up</stem>
         <staff>2</staff>
+        <notations>
+          <ornaments>
+            <trill-mark/>
+            </ornaments>
+          </notations>
         </note>
       <backup>
         <duration>120</duration>
